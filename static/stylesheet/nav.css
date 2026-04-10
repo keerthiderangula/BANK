@@ -1,0 +1,17 @@
+   nav{
+        background-color: orangered;
+        display: flex;
+        justify-content: space-evenly;
+        ul{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            gap: 70px;
+            color: white;
+            font-weight: bold;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            list-style: none;
+            font-size: 30px;
+        }
+    }

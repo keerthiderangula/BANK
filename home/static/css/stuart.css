@@ -1,0 +1,14 @@
+
+#img6{
+    h1{
+        background-color: white;
+    }
+    p{
+        color: white;
+    }
+    img{
+        height: 300px;
+        width: 200px;
+        border: 5px solid white;
+    }
+}

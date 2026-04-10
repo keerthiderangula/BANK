@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg{
+    width: 100vw;
+    height: 100vw;
+    background-position: 100% 100%;
+    position: absolute;
+    z-index: -1;
+    position:fixed;
+    margin-top: -250px;
+
+}
